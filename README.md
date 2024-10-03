@@ -26,6 +26,8 @@ pip install -r requirements.txt
 ## Data Overview 📋
 The dataset (`tweets.csv`) used in this project contains a rich set of attributes including user information (`user_name`, `user_location`, `user_description`), tweet content (`text`, `hashtags`), and metadata (`date`, `source`). The dataset may have missing values, which are handled carefully during the analysis process to ensure robust insights.
 
+Data-set Link : https://www.kaggle.com/datasets/vanshangaria/chatgpt-tweets
+
 ## Sentiment Analysis 📈
 Sentiment analysis is crucial for understanding the emotional tone behind each tweet. It involves calculating sentiment scores using the VADER Sentiment Analysis tool, which provides a compound score indicating the overall sentiment (positive, negative, or neutral) of each tweet. This analysis helps in categorizing tweets based on their emotional content and understanding trends in public sentiment over time.
 
